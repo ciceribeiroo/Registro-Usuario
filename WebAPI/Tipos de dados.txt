@@ -1,0 +1,6 @@
+{
+    "UserName": "jaopdfeijao",
+    "Email": "jpfeijao@abc.com",
+    "Password": "abcABC123!",
+    "fullName": "JoãoPédeFeijão"
+}
